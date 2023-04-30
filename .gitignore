@@ -1,0 +1,10 @@
+/.coverage
+/.pytest_cache
+/__pycache__
+/htmlcov
+app/__pycache__
+app/api/__pycache__
+app/db/__pycache__
+app/services/__pycache__
+app/schemas/__pycache__
+tests/__pycache__
